@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronit Raj</h1>
 <h3 align="center">A 13 yo, developer who has a dream to change the world</h3>
 
-- 📫 How to reach me **ronitrajofficial7@gmail.com**
+- 📫 Reach me at **ronitrajofficial7@gmail.com**
 
 <div> <a href="https://twitter.com/ronitraj_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/rrajofficial7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
