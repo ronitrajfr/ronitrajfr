@@ -1,6 +1,6 @@
 
 <samp>
-  <a href="https://www.ronitt.xyz/">www</a> •
-  <a href="https://www.ronitt.xyz/blog">blog</a> •
+  <a href="https://ronitfr.vercel.app">www</a> •
+  <a href="https://ronitfr.vercel.app/blog">blog</a> •
   <a href="https://x.com/ronitrajfr/">twitter</a>
 </samp>
